@@ -1,4 +1,3 @@
-# HCIN-720 Project:
 # College Algebra Tutor App (CATA)
 
 Project for our HCIN-620 team (term 2195)
@@ -21,7 +20,7 @@ The primary stakeholders are the college instructors and their students.  Second
 * The algebra tutorial app will be delivered as a web application accessible both from desktop and mobile device, such as a smartphone or tablet
 * Construct a working prototype of an established feature set, including a small set of connect learning modules and a separate (timed) quiz module
   * A module may include pre-class learning content
-  * Stretch goal: could be a replacement for the textbook; we’ll ask our instructor stakeholders
+  * _Stretch goal_: could be a replacement for the textbook; we’ll ask our instructor stakeholders
   * A module will not replace the instructor’s lecture
   * A module will include options for both in-class and post-class (homework) activities
   * A module will include a practice exam that is timed
@@ -30,7 +29,7 @@ The primary stakeholders are the college instructors and their students.  Second
   * “Top Student” scoreboard (top three) for the whole class
   * A “badge” for least number of hints needed
   * A “badge” for one or more “top score” achievers?
-  * Stretch goal: instructor-reward badges
+  * _Stretch goal_: instructor-reward badges
 * The app will include an overview of the course’s module
 * The app will include a cross-module navigation system
 * The app will include an instructor view page that shows:
@@ -71,6 +70,13 @@ The primary stakeholders are the college instructors and their students.  Second
 * App could include mock quizzes (where users can reference learning modules) that do not count against GPA
 * Learning modules should be locked once quizzes are started
 * Unit and practice exams should be timed with progressive and final warnings issued
+
+## Out of Scope
+
+* No cross-user communication, neither email, SMS nor in-app chat.
+* No integration with any other Leaning Management System such as MyCourses.
+* We will limit the scope of our prototype to two or three lessons because a complete course would require dozens of lessons (aka modules) but that would not be feasible.
+* Any administration screens beyond explicitly defined in the **Goals** and **Ideas** sections.
 
 ## Stakeholder Communication
 
