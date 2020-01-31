@@ -5,7 +5,7 @@ Project for our HCIN-620 team (term 2195)
 
 * Roshni Wadhwa
 * Shannon Miller
-* Edward Wervner
+* Edward Werner
 * Bryan Basham
 
 ## Roles
