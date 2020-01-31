@@ -1,4 +1,5 @@
-# HCIN-720 Project: College Algebra Tutor App (CATA)
+# HCIN-720 Project:
+# College Algebra Tutor App (CATA)
 
 Project for our HCIN-620 team (term 2195)
 
