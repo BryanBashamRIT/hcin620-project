@@ -1,14 +1,8 @@
-# hcin620-project
+# HCIN-720 Project: College Algebra Tutor App (CATA)
+
 Project for our HCIN-620 team (term 2195)
 
-## Team
-
-* Roshni Wadhwa
-* Shannon Miller
-* Edward Werner
-* Bryan Basham
-
-## Roles
+## Team Members and Roles
 
 * _Roshni Wadhwa_: UX Design expert
 * _Shannon Miller_: Communication and graphic design
@@ -79,12 +73,12 @@ The primary stakeholders are the college instructors and their students.  Second
 
 ## Stakeholder Communication
 
-Stakeholders should be kept informed of development progress and should intervene if they feel the app’s progression is not in their best interests. Stakeholders should be kept notified when certain features are running behind schedule. Developers should expect extra scope added due to additional/revised designs and features. A prompt feedback system should be implemented so the product owner can be the single point of contact between the stakeholders, the development team and the designers. It should be stressed to the team that the stakeholders represent the clients, and that design changes should be expected and accommodated as development progresses. All client communications should be funneled through the product owner.
+Stakeholders should be continuously informed of development progress. They should intervene if they feel the app’s progression does not with their goals. Stakeholders should be notified when certain features are running behind schedule. Developers should expect extra scope added due to additional/revised designs and features. A prompt feedback system should be implemented so the product owner can be the single point of contact between the stakeholders, the development team and the designers. It should be stressed to the team that the stakeholders represent the clients, and that design changes should be expected and accommodated as development progresses. All client communications should be funneled through the product owner.
 
 ## Stakeholder Notification
 
-Stakeholders should be notified regularly via email with a scheduled team demo or web link to the prototype. Feedback should be early and often to prevent the implementation of unwanted features. The design should be communicated in the most realistic manner with an incremental progression of addressed stakeholder feedback. Larger features should be broken down into smaller feature sets so that the stakeholders can make important decisions and inform design and development of any changes as soon as possible.
+Stakeholders should be notified regularly via email with a scheduled team demo or web link to the prototype. Feedback should be early and often to prevent the implementation of unwanted features. The design should be communicated as realistically as possible with an incremental progression of addressed stakeholder feedback. Larger features should be broken down into smaller feature sets so that the stakeholders can make important decisions and inform design and development of any changes as soon as possible.
 
 ## Application Reengineering
 
-The app should offer the ability to be repurposed to support other schools of STEM education. The app should also subscribe to a statewide reporting system where records can be backed up and statistics can be analyzed and applied to curriculum optimization to create and refine learning standards by governmental representatives.
+The app should offer the ability to be repurposed to support other schools of STEM education. The app should also integrate with a statewide reporting system where records can be backed up and statistics can be analyzed and applied to curriculum optimization to create and refine learning standards by governmental representatives.
