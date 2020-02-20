@@ -96,7 +96,3 @@ Stakeholders should be continuously informed of development progress. They shoul
 ## Stakeholder Notification
 
 Stakeholders should be notified regularly via email with a scheduled team demo or web link to the prototype. Feedback should be early and often to prevent the implementation of unwanted features. The design should be communicated as realistically as possible with an incremental progression of addressed stakeholder feedback. Larger features should be broken down into smaller feature sets so that the stakeholders can make important decisions and inform design and development of any changes as soon as possible.
-
-## Application Reengineering
-
-The app should offer the ability to be repurposed to support other schools of STEM education. The app should also integrate with a statewide reporting system where records can be backed up and statistics can be analyzed and applied to curriculum optimization to create and refine learning standards by governmental representatives.
