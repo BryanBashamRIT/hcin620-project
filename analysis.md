@@ -1,6 +1,6 @@
-# CATA: Requirements Analysis
+# CATA: Contextual Inquiry
 
-This page details the contextual analysis for the CATA project.
+This page details the contextual inquiry for the CATA project.
 
 ## Interviews
 
@@ -14,6 +14,7 @@ We interviewed professors in groups of two so that one person can focus on askin
 Natalia Fedysiv | Adjunct Instructor | School of Mathematical Sciences, RIT
 Justyna | Assistant Director | Academic Success Center, RIT
 Olga | Senior Lecturer and Course Coordinator | College of Science/School of Mathematical Sciences, RIT
+
 
 We attempted to reschedule with Michelle but her schedule wasn't conducive to quick turn-around.
 We also reached out to a student tutor but he never returned our emails.
