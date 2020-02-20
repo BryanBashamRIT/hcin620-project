@@ -109,6 +109,6 @@ Initially, it was difficult to understand how these bottom level interview notes
 
 Here is a screenshot of the diagram:
 
-![Affinity Diagram for CATA Project]("HCIN-620 CATA Affinity Diagram.jpg" "HCIN-620 CATA Affinity Diagram")
+![alt text](./HCIN-620-CATA-Affinity-Diagram.jpg "HCIN-620 CATA Affinity Diagram")
 
 For an interactive view see the [miro board](https://miro.com/app/board/o9J_kvMAaqU=/)
