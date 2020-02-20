@@ -43,7 +43,7 @@ telling a story about the origins of the word problem.
 * _engage an emotional response_: Learning is enhanced when the learner has an emotional response
 to the content.  Story telling can be an effective tool of eliciting an emotional response in the learner.
 * _multi-modal representation_: This technique applies multiple forms of representation to the topic
-being learned.  Modes such as: textual, graphical, story-telling and so on.
+being learned.  Modes such as: textual, graphical, procedural, story-telling and so on.
 * _cognitive scaffolding_: Each lesson will contain an explanation of how this topic relates to other
 topics in the course.  For example, **Rational Expressions** relate to **Polynomials**, which also
 relates to **Exponents** and **Variable**, and so on.
