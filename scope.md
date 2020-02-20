@@ -30,6 +30,24 @@ The primary stakeholders are the college instructors and their students.  Second
 * Individual student’s scores on activities and practice exams
 * A statistical summary of the class’ success (average distribution) with a module
 
+## Learning Theory Model
+
+This project is one part user experience design and one part learner experience design.
+These are a few of the learning theory techniques we plan to employ:
+
+* _self-directed learning_: The student uses the CATA platform to explore areas of college algebra
+at their own pace.
+* _story telling_: Where appropriate we will use story telling to deliver the learning content.
+For example, word problems for the topic of **Exponential Growth and Decay** can be illustrated by
+telling a story about the origins of the word problem.
+* _engage an emotional response_: Learning is enhanced when the learner has an emotional response
+to the content.  Story telling can be an effective tool of eliciting an emotional response in the learner.
+* _multi-modal representation_: This technique applies multiple forms of representation to the topic
+being learned.  Modes such as: textual, graphical, story-telling and so on.
+* _cognitive scaffolding_: Each lesson will contain an explanation of how this topic relates to other
+topics in the course.  For example, **Rational Expressions** relate to **Polynomials**, which also
+relates to **Exponents** and **Variable**, and so on.
+
 ## Concerns
 
 * “Scope creep” with too many requested features and not enough time for production
