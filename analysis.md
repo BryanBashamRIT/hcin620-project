@@ -31,7 +31,7 @@ We were not able to interview students due to time constraints and negoiations w
 Therefore, during our interviews with we asked the instructor to describe an over- and an under-achiever student.
 We used the following script in this phase of the interview:
 
-> Because they would be the primary user of our fictitious webapp, we need to build personas of them.  Don’t name anyone but if you can think of a specific person that would be ideal.  Think of two distinct individuals: one that excelled and one that struggled.
+> Because they (students) would be the primary user of our fictitious webapp, we need to build personas of them.  Don’t name anyone but if you can think of a specific person that would be ideal.  Think of two distinct individuals: one that excelled and one that struggled.
 > 
 > * Where is this person from?
 > * Why are they taking MATH-101?
