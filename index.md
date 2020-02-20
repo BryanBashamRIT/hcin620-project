@@ -17,15 +17,33 @@ Project for our HCIN-620 team (term 2195)
 1. I expect my team mates also fulfill their assignments on time.
 1. I vow to remain in communication with my team on Slack; and check-in at least every other day.
 
-## Project Scope
+## M1: Project Scope
 
 Build a working prototype of a mathematics e-learning platform/tutorial app that specifically
 covers college (pre-calculus) mathematics disciplines including algebra.
 
 [See here for details.](./scope.md)
 
-## Requirements Analysis
+## M2: Contextual Inquiry
 
 The team used Contextual Inquiry to perform requirements analysis.
 
 [See here for details.](./analysis.md)
+
+## M3: Personas
+
+The team used Contextual Inquiry to identify and describe user and learner personas.
+
+[See here for details.](./personas.md)
+
+## M4: Lo-fi Prototype
+
+_TBD_
+
+## M5: Hi-fi Prototype
+
+_TBD_
+
+## Peer Evaluation
+
+_TBD_
