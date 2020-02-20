@@ -11,7 +11,11 @@ Project for our HCIN-620 team (term 2195)
 
 ### Team Covenant
 
-TBD
+1. I vow to fulfill the assignments I volunteer for and on time.
+1. I expect my team mates also fulfill their assignments on time.
+1. As PM I vow to make sure that the milestone task list is known/understood.
+1. I expect my team mates to volunteer for the tasks for each Milestone in a balanced manner.  Volunteering should take place within 48 hours after the task list is published on Slack.
+1.  I vow to remain in communication with my team on Slack; and check-in at least every other day.
 
 ## Project Scope
 
