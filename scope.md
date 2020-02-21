@@ -8,28 +8,6 @@ Build a working prototype of a mathematics e-learning platform/tutorial app that
 ## Stakeholders
 The primary stakeholders are the college instructors and their students.  Secondary stakeholders include the HCIN-620 class and the team itself.
 
-## Goals
-
-* The algebra tutorial app will be delivered as a web application accessible both from desktop and mobile device, such as a smartphone or tablet
-* Construct a working prototype of an established feature set, including a small set of connect learning modules and a separate (timed) quiz module
-  * A module may include pre-class learning content
-  * _Stretch goal_: could be a replacement for the textbook; we’ll ask our instructor stakeholders
-  * A module will not replace the instructor’s lecture
-  * A module will include options for both in-class and post-class (homework) activities
-  * A module will include a practice exam that is timed
-* Implementation of a reward system to reinforce learning in a positive way (gamification)
-  * “Top Student” scoreboard (top three) per module (or by the practice exam?)
-  * “Top Student” scoreboard (top three) for the whole class
-  * A “badge” for least number of hints needed
-  * A “badge” for one or more “top score” achievers?
-  * _Stretch goal_: instructor-reward badges
-* The app will include an overview of the course’s module
-* The app will include a cross-module navigation system
-* The app will include an instructor view page that shows:
-* Individual student progress for each module
-* Individual student’s scores on activities and practice exams
-* A statistical summary of the class’ success (average distribution) with a module
-
 ## Learning Theory Model
 
 This project is one part user experience design and one part learner experience design.
@@ -47,6 +25,31 @@ being learned.  Modes such as: textual, graphical, procedural, story-telling and
 * _cognitive scaffolding_: Each lesson will contain an explanation of how this topic relates to other
 topics in the course.  For example, **Rational Expressions** relate to **Polynomials**, which also
 relates to **Exponents** and **Variable**, and so on.
+
+## Goals
+
+* The algebra tutorial app will be delivered as a web application accessible both from desktop and mobile device, such as a smartphone or table
+* To construct a working prototype of an established feature set, including a small set of connected learning modules and a separate (timed) quiz module
+* Implementation of a reward system to reinforce learning in a positive way (gamification)
+* _Stretch goal_: Act as a replacement for the textbook
+* _Stretch goal_: instructor-reward badges
+
+## Plan
+
+* A module may include pre-class learning content
+* A module will not replace the instructor’s lecture
+* A module will include options for both in-class and post-class (homework) activities
+* A module will include a practice exam that is timed
+* The app will include an overview of the course’s module
+* The app will include a cross-module navigation system
+* The app will include an instructor view page that shows:
+  * Individual student progress for each module
+  * Individual student’s scores on activities and practice exams
+  * A statistical summary of the class’ success (average distribution) with a module
+* “Top Student” scoreboard (top three) per module (or by the practice exam?)
+* “Top Student” scoreboard (top three) for the whole class
+* A “badge” for least number of hints needed
+* A “badge” for one or more “top score” achievers?
 
 ## Concerns
 
