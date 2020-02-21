@@ -22,6 +22,8 @@ telling a story about the origins of the word problem.
 to the content.  Story telling can be an effective tool of eliciting an emotional response in the learner.
 * _multi-modal representation_: This technique applies multiple forms of representation to the topic
 being learned.  Modes such as: textual, graphical, procedural, story-telling and so on.
+* _content chunking_: This technique breaks complex topics into smaller chunks with activities that
+break up the content and let each sub-topic time to "settle in" before tackling the next sub-topic.
 * _cognitive scaffolding_: Each lesson will contain an explanation of how this topic relates to other
 topics in the course.  For example, **Rational Expressions** relate to **Polynomials**, which also
 relates to **Exponents** and **Variable**, and so on.
