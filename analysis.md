@@ -7,16 +7,7 @@ This page details the contextual inquiry for the CATA project.
 We started with finding tutors teaching Math-101 in Rochester Institute of Technology. Initially, it was difficult to get in touch and schedule an appointment with professors considering the short span of time we had. Luckily after Michael’s help, we were able to connect with professor Tsukernik who helped us connect with other college Algebra professors.
 
 We interviewed three professors. We used the Think Aloud research method for our interviews.
-We interviewed professors in groups of two so that one person can focus on asking questions and one can take notes. We thank the professors for their time and sharing valuable inputs:
-
-| Interviewee | Role | Department
-:--- | :--- | :---
-Natalia Fedysiv | Adjunct Instructor | School of Mathematical Sciences, RIT
-Justyna | Assistant Director | Academic Success Center, RIT
-Olga | Senior Lecturer and Course Coordinator | College of Science/School of Mathematical Sciences, RIT
-
-
-We attempted to reschedule with Michelle but her schedule wasn't conducive to quick turn-around.
+We interviewed professors in groups of two so that one person can focus on asking questions and one can take notes. We attempted to reschedule with Michelle but her schedule wasn't conducive to quick turn-around.
 We also reached out to a student tutor but he never returned our emails.
 
 ### Interview Script
