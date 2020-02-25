@@ -87,12 +87,6 @@ In the last section of the interview we’d like to discuss how you use MyCourse
 ## Interpretation Sessions
 After the interviews we all met together to discuss our interviews and finalized to use Miro for our Affinity Diagramming. We then discussed our affinity diagram on google hangouts. We wrote all the interview notes in the post-it notes as first person. We also mentioned the interview number (I1,I2,I3) on the post-it note to indicate the interview post-it note belongs to. We then grouped together similar labels and made our way to the top labels.
 
-| Interviewee | Number |
-| :--- | --- |
-Natalia Fedysiv | I1
-Justyna Oldziej | I2
-Olga Tsukernik | I3
-
 
 ## Affinity Diagram
 
