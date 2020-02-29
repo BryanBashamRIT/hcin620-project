@@ -16,7 +16,7 @@ Another common category of student are already very strong in mathematical skill
 The system will provide content that can challenge even an over-achiever, like Andrew
 Jones from Sunnywale, CA.
 
-[See PDF](high_achiever.pdf)
+[See PDF](high_ahiever.pdf)
 
 ## Persona: _Instructor_
 
