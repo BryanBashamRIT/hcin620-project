@@ -26,4 +26,4 @@ activity.  Natasha Poklonskaya is the ideal person to represent this user commun
 specifically because she is an adjunct the system needs to do the dull work of grading
 so she can focus on the needs of her students.
 
-[See PDF](instrucctor.pdf)
+[See PDF](instructor.pdf)
