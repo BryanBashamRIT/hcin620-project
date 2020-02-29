@@ -1,6 +1,6 @@
 # CATA: Contextual Inquiry
 
-This page details the contextual inquiry for the CATA project.
+This page details the contextual inquiry for the College Algebra Tutorial App (CATA) project.
 
 ## Interviews
 
