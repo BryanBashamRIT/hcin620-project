@@ -1,6 +1,6 @@
 # CATA: Project Scope
 
-This page details the scope of the CATA project.
+This page details the scope of the College Algebra Tutorial App (CATA) project.
 
 ## Concept
 Build a working prototype of a mathematics e-learning platform/tutorial app that specifically covers college (pre-calculus) mathematics disciplines including algebra.
