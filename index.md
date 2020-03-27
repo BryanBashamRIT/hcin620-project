@@ -38,7 +38,9 @@ The team used Contextual Inquiry to identify and describe user and learner perso
 
 ## M4: Lo-fi Prototype
 
-_TBD_
+The team created a set of lo-fidelity prototypes for three general student use cases.
+
+[See here for details.](./lo-fi-prototype.md)
 
 ## M5: Hi-fi Prototype
 
