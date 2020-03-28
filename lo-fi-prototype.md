@@ -8,7 +8,7 @@ These are organized by three general use cases.
 The students logs into the Tutorial App (login page not shown) and the students starts at the App's
 Global Home page.
 
-![Student starts at the Global Home page.](lo-fi/CATA-GlobalHome-placeholder.jpg)
+![Student starts at the Global Home page.](lo-fi/CATA-GlobalHomePage-final.jpg)
 
 The student selects the _College Algebra_ class and the system navigates to the Class Home page.
 
