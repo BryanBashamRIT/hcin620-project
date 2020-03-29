@@ -31,8 +31,8 @@ Mary selects the _College Algebra_ class and the system navigates to the Class H
 
 ![alt text](lo-fi/CATA_ClassHomePage.jpg "Student navigates to the Class Home page.")
 
-Here Mary can find his score on the latest quizzes graded.  She was excited to see she had won
-a badge for this quiz and she is now on the leaderboard.
+Here Mary can see her progress of various lessons.  She was excited to see she had won
+a badge for the most recent quiz and she is now on the leaderboard.
 
 To view her history of grades she navigates to her private Profile page.
 
@@ -65,7 +65,7 @@ given page to navigate through the content.  Each page can contain any of the fo
 | Paragraph | A general purpose paragraph of text. | ![alt text](lo-fi/CATA_ContentType_paragraph.jpg "Paragraph content type.") |
 | Image | Any image. | ![alt text](lo-fi/CATA_ContentType_image.jpg "Image content type.") |
 | Formula | A graphic for a mathematical formula. | ![alt text](lo-fi/CATA_ContentType_formula.jpg "Formula content type.") |
-| Ask the Professor | A question and answer exchange. | ![alt text](lo-fi/CATA_ContentType_paragraph.jpg "'Ask the Professor' content type.") |
+| Ask the Professor | A question and answer exchange. | ![alt text](lo-fi/CATA_ContentType_AskTheProf.jpg "'Ask the Professor' content type.") |
 
 ## UC3: _Student Takes a Quiz_
 
