@@ -22,16 +22,16 @@ document our designs, organized by use cases.
 
 ## UC1: _Student Views Grades_
 
-The students logs into the Tutorial App (login page not shown) and the students starts at the App's
-Global Home page.
+Mary McClemons wants to check on her quiz grades.  She logs into the Tutorial App (login page not shown) and the
+system renders the App's Global Home page.
 
 ![alt text](lo-fi/CATA_GlobalHomePage_final.jpg "Student starts at the Global Home page.")
 
-The student selects the _College Algebra_ class and the system navigates to the Class Home page.
+Mary selects the _College Algebra_ class and the system navigates to the Class Home page.
 
 ![alt text](lo-fi/CATA_ClassHomePage.jpg "Student navigates to the Class Home page.")
 
-Here the student can find his score on the latest quizzes graded.  She was excited to see she had won
+Here Mary can find his score on the latest quizzes graded.  She was excited to see she had won
 a badge for this quiz and she is now on the leaderboard.
 
 To view her history of grades she navigates to her private Profile page.
@@ -42,9 +42,30 @@ This page provides additional details and a chart of her progress.
 
 ## UC2: _Student Takes a Lesson_
 
-The 
+Andrew is ready to take the next lesson on polynomials, _Zeros of Polynomial Functions_, so he logs
+into CATA and navigates to the Class Home page.  From the list of lessons on that page he selects the
+_Zeros_ lesson, the system renders the Lesson page:
 
-![Student starts at the Home page.](lo-fi/uc1-home-page.jpg)
+![alt text](lo-fi/CATA_LessonPage_final.jpg "The 'Zeros of Polynomial Functions' Lesson page.")
+
+This page provides an introduction of the lesson, any related lessons (so he can review concepts he might
+have forgotten), a list of associated quizzes and/or homework assignments, and a list of additional
+resources on the web.
+
+Andrew is eager to dive right in so he clicks on the *Start* button in the introduction section.  The system
+navigates to the first of the content pages for this lesson as shown below.
+
+![alt text](lo-fi/CATA_LessonContentPage_Intro_final.jpg "A sample Lesson Content page.")
+
+The content delivery system supports a series of pages with a _Back_ and _Next_ at the bottom of the given
+given page to navigate through the content.  Each page can contain any of the following content components:
+
+| Content Type | Description | Sketch |
+|:------------:|-------------|-------:|
+| Paragraph | A general purpose paragraph of text. | ![alt text](lo-fi/CATA_ContentType_paragraph.jpg "Paragraph content type.") |
+| Image | Any image. | ![alt text](lo-fi/CATA_ContentType_image.jpg "Image content type.") |
+| Formula | A graphic for a mathematical formula. | ![alt text](lo-fi/CATA_ContentType_formula.jpg "Formula content type.") |
+| Ask the Professor | A question and answer exchange. | ![alt text](lo-fi/CATA_ContentType_paragraph.jpg "'Ask the Professor' content type.") |
 
 ## UC3: _Student Takes a Quiz_
 
