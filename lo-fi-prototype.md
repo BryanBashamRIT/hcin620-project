@@ -58,7 +58,11 @@ navigates to the first of the content pages for this lesson as shown below.
 ![alt text](lo-fi/CATA_LessonContentPage_Intro_final.jpg "A sample Lesson Content page.")
 
 The content delivery system supports a series of pages with a _Back_ and _Next_ at the bottom of the given
-given page to navigate through the content.  Each page can contain any of the following content components:
+given page to navigate through the content.  
+
+### Content Types
+
+Each page can contain any of the following content components:
 
 | Content Type | Description | Sketch |
 |:------------:|-------------|-------:|
@@ -66,6 +70,8 @@ given page to navigate through the content.  Each page can contain any of the fo
 | Image | Any image. | ![alt text](lo-fi/CATA_ContentType_image.jpg "Image content type.") |
 | Formula | A graphic for a mathematical formula. | ![alt text](lo-fi/CATA_ContentType_formula.jpg "Formula content type.") |
 | Ask the Professor | A question and answer exchange. | ![alt text](lo-fi/CATA_ContentType_AskTheProf.jpg "'Ask the Professor' content type.") |
+
+Activities can also be embedded in the lesson content pages.  Activity types are describe below.
 
 ## UC3: _Student Takes a Quiz_
 
@@ -77,3 +83,19 @@ for homework assignments.  Here is the proposal for a Quiz start page:
 A quiz can contain any number of activity components, as shown here:
 
 ![alt text](lo-fi/CATA_QuizContentPage.jpg "A sample content page for a quiz")
+
+### Activity Types
+
+A quiz is composed of one or more questions.  More generally, any activity has the potential to be
+graded as part of an assessment.  Moreover, activities may also be embedded in lesson content pages
+to make them more interactive.
+
+Here is a simple set of activity types:
+
+| Content Type | Description | Sketch |
+|:------------:|-------------|-------:|
+| Multi-Choice | A question with multiple choices but only one selection. | ![alt text](lo-fi/CATA_ActivityType_multichoice.jpg "Multi-Choice activity type.") |
+| Multi-Selection | A question with multiple choices that allows multiple selections. | ![alt text](lo-fi/CATA_ActivityType_multiselect.jpg "Multi-Selection activity type.") |
+| Short Essay | A question that is answered with a short essay. | ![alt text](lo-fi/CATA_ActivityType_shortessay.jpg "'Short Essay' activity type.") |
+| Short Answer | A question that is answered with one or more short answers.  For example, a set of numeric answers to a polynomial factoring. | ![alt text](lo-fi/CATA_ActivityType_shortanswer.jpg "'Short Answer' activity type.") |
+| Show Your Work | A mathematical problem that is solved by progressive alebraic transformations. | ![alt text](lo-fi/CATA_ActivityType_ShowYourWork.jpg "'Show Your Work' activity type.") |
