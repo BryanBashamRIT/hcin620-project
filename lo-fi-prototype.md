@@ -6,8 +6,8 @@ These are organized by three general use cases.
 ## Notes about our Process
 
 The team spent a few days analyzing both the Affinity diagram and our Project scope proposal to determine
-the set of web site pages required to satisfy all of the requirements from these two sources.  When then created
-a web site map (see next section) that documents these decisions.  Due to time constraints we decided to focus on
+the set of web site pages required to satisfy all of the requirements from these two sources.  We then created
+a web site map (see next section) that captures these decisions.  Due to time constraints we decided to focus on
 the student experience and tabled all of the instructor pages.
 
 Once we had a set of pages we put up a list on Slack and we negotiated assignments.  We worked independently, due
@@ -71,7 +71,7 @@ Each page can contain any of the following content components:
 | Formula | A graphic for a mathematical formula. | ![alt text](lo-fi/CATA_ContentType_formula.jpg "Formula content type.") |
 | Ask the Professor | A question and answer exchange. | ![alt text](lo-fi/CATA_ContentType_AskTheProf.jpg "'Ask the Professor' content type.") |
 
-Activities can also be embedded in the lesson content pages.  Activity types are describe below.
+Activities can also be embedded in the lesson content pages.  Activity types are described below.
 
 ## UC3: _Student Takes a Quiz_
 
