@@ -3,12 +3,26 @@
 This page provides a set of lo-fidelity prototypes for the College Algebra Tutorial App (CATA) project.
 These are organized by three general use cases.
 
+## Notes about our Process
+
+The team spent a few days analyzing both the Affinity diagram and our Project scope proposal to determine
+the set of web site pages required to satisfy all of the requirements from these two sources.  When then created
+a web site map (see next section) that documents these decisions.  Due to time constraints we decided to focus on
+the student experience and tabled all of the instructor pages.
+
+MOre...
+
+
+## Web Site Map
+
+![alt text](lo-fi/CATA_Web_Site_State_Model.png "Web site state model; shows navigation paths between pages.")
+
 ## UC1: _Student Views Grades_
 
 The students logs into the Tutorial App (login page not shown) and the students starts at the App's
 Global Home page.
 
-![Student starts at the Global Home page.](lo-fi/CATA_GlobalHomePage_final.jpg)
+![alt text](lo-fi/CATA_GlobalHomePage_final.jpg "Student starts at the Global Home page.")
 
 The student selects the _College Algebra_ class and the system navigates to the Class Home page.
 
