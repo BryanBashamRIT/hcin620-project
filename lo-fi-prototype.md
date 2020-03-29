@@ -36,7 +36,7 @@ a badge for the most recent quiz and she is now on the leaderboard.
 
 To view her history of grades she navigates to her private Profile page.
 
-![alt text](lo-fi/cata_user_profile_sketch_v4.jpg "Student view their class-specific profile page.")
+![alt text](lo-fi/cata_user_profile_sketch_v5.jpg "Student view their class-specific profile page.")
 
 This page provides additional details and a chart of her progress.
 
