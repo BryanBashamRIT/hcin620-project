@@ -99,3 +99,11 @@ Here is a simple set of activity types:
 | Short Essay | A question that is answered with a short essay. | ![alt text](lo-fi/CATA_ActivityType_shortessay.jpg "'Short Essay' activity type.") |
 | Short Answer | A question that is answered with one or more short answers.  For example, a set of numeric answers to a polynomial factoring. | ![alt text](lo-fi/CATA_ActivityType_shortanswer.jpg "'Short Answer' activity type.") |
 | Show Your Work | A mathematical problem that is solved by progressive alebraic transformations. | ![alt text](lo-fi/CATA_ActivityType_ShowYourWork.jpg "'Show Your Work' activity type.") |
+
+
+## Ancillary Pages
+
+We also created a sketch of a _Class List_ page that was not part of our original plan but I include it here for
+completeness.
+
+![alt text](lo-fi/cata_class_list_sketch_v3.jpg "The Class List page.")
