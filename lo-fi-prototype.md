@@ -5,8 +5,8 @@ These are organized by three general use cases.
 
 ## Table of Contents
 
-* [Notes about our Process](#cata-lo-fi-prototypes)
-* [Web Site Map](#notes-about-our-process)
+* [Notes about our Process](#notes-about-our-process)
+* [Web Site Map](#web-site-map)
 * [Use Case 1: _Student Views Grades_](#uc1-student-views-grades)
 * [Use Case 2: _Student Takes a Lesson_](#uc2-student-takes-a-lesson)
   * [Content Types](#content-types)
