@@ -3,6 +3,8 @@
 This page provides a set of lo-fidelity prototypes for the College Algebra Tutorial App (CATA) project.
 These are organized by three general use cases.
 
+[test link](#uc3-student-takes-a-quiz)
+
 ## Notes about our Process
 
 The team spent a few days analyzing both the Affinity diagram and our Project scope proposal to determine
