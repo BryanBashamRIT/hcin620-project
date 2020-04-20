@@ -24,57 +24,60 @@ assessments that are designed to teach mathematics concepts and skills.  This vi
 
 ## Use Case 1: Student Views Grades
 
-In the first use case, Andrew wants to view his grades in the _College Algebra_ course.  He start at the Global Home
-page and selects the _College Algebra_ course card; the system navigates to the Class Home page for _College Algebra_.
-This page provides a Dashboard for this class tuned specifically to this student.  They can view the progress across
+In the first use case, Andrew wants to view his grades in the _College Algebra_ course.  He starts at the Global Home
+page and selects the _College Algebra_ course card; the system navigates to the Class Home page.  We are using an ease-in
+transition for all of our page navigation.
+
+The Class Home page provides a Dashboard for this class tuned specifically to this student.  The student can view
+their progress across
 all lessons and navgiate to specific lessons that he is working on.  He can also see a calendar of up-coming tasks
 such as quizzes and homework assignments.
 
-Andrew clicks on his profile button to view his class-specific Student Profile page.  He notices that he has recieved
-another badge so he navigates to the Leaderboard page to see his status relative to his fellow classmates.  He's excited
-that he moved up a notch.
+To view his grades, Andrew clicks on the profile button to view a class-specific Student Profile page.  This page provides
+a few details about Andrew on the left, his quiz scores using a line chart and the set of badges his has earned.  He notices
+that he has recieved another badge so he navigates to the Leaderboard page to see his status relative to his fellow classmates.
+He's excited that he moved up a notch.
 
 ## Use Case 2: Student Takes a Lesson
 
-In the second use case, Andrew wants to get a head start on the next lesson.  He navigates to the _College Algebra_
+In the second use case, Andrew wants to get a head start on the next lesson.  So he navigates back to the _College Algebra_
 Class Home page.  There he clicks on the _Zeros of Polynomial Functions_ lesson card.  The system navigates to that
 page for that specific lesson.
 
 On this page, Andrew can gets an introduction to the lesson, plus a list of learning objectives for this topic.
-The page also provides a list of related lessons in case he wants to review foundational concepts as well as a list
-of external resources for additional exploration of this topic.
+The page also provides a list of related lessons in case he wants to review any foundational concepts.
+There is a list of external resources for additional exploration of this lesson.
 
 The side navigation bar shows the complete set of lessons for this class as well as the related lessons that are starred
-and the current lesson, which is highlighted.  This side-nav bar can be open or closed on any of the lesson content pages.
-For this demonstration it will be closed.
+and the current lesson, which is circled.  This side-nav bar can be open or closed on any of the lesson content pages.
 
 To start reading the lesson Andrew clicks on the "Start lesson" button in the Introduction section.  The system navigates
 to the first content page.  This page discusses the _Rational Zeros Theorem_ that is used to determine a set of possible
 zeros for any polynomial function with integer coefficients.  Any content page may contain any number of content elements
-such as heading, paragraphs and images.  We also added content types that are unique to mathematics classes such as
-statements of theorems, examples of using technique as well as activities embedded directly on the page.  This makes the
+such as a heading, paragraphs or images.  We also added content types that are unique to mathematics classes such as
+statements of theorems, examples of using the technique, as well as activities embedded directly on the page.  This makes the
 content more interact and enjoyable.
 
-The left region of the page is used to highlight certain important features.  On this page we list the relevant learning
-objective at the start of the page.  There is also a panel called "Ask the Instructor", which provides a place for frequently
+The left region of the page is used to highlight certain important features.  The relevant learning objective is always
+included at the top of the page.  There is also a panel called "Ask the Instructor", which provides a place for frequently
 asked questions.
 
-The two buttons at the bottom of the page provide navigation forward and backward.  Clicking on the Next button the system
-navigates to the second learning objective for this lesson: _Using the quadratic formula_.  Please note that I used a few
-snapshots from the textbook to simplify the development of these prototype pages; please pardon the inconsistency.
+The two buttons at the bottom of the page provide navigation forward and backward.  Clicking on the _Next_ button tells
+the system to navigate to the second learning objective for this lesson: _Using the quadratic formula_.  Please note that
+I used a few snapshots from the textbook to simplify the development of these prototype pages; please pardon the inconsistency.
 
 The next page provides the final topic of this lesson bringing together the first two topics into a unified procedure
-for finding the zeros of any integer-based polynomial equation.  On this page you will find an additional content type
+for finding the zeros of integer-based polynomial equations.  On this page you will find an additional content type
 called a _Procedure_.  Also notice that in place of the _Next_ button we see the _Start homework_ button.  This provides
 an easy link to start the homework activity.  This is not part of our demonstration.
 
 ## Use Case 3: Student Takes a Quiz
 
-In the final use case, Andrew needs to catch up on a previously assigned quiz from lesson one.  He navigates to the
-_College Algebra_ Class Home page.  There he clicks on the _Quiz 2_ lesson card.  The system navigates to the Start Quiz
-page.  Here the student is given instructions about how to take the quiz and how much time is offered.  When he's ready
-Andrew clicks on the _Start Quiz_ button and the system navigates to the quiz content page.  This page provides rich support
-for taking assessments for algebra-based problems.  
+In the final use case, Andrew needs to catch up on a previously assigned quiz from lesson one.  He navigates back to the
+Class Home page.  There he clicks on the _Quiz 2_ task card.  The system navigates to the Start Quiz page.  Here the student
+is given instructions about how to take the quiz and how much time is offered.  When he's ready Andrew clicks on the _Start
+Quiz_ button and the system navigates to the quiz content page.  This page provides rich support for taking assessments for
+algebra-based problems.
 
 For example, you can see in the first question that the system provides graphs as well as plain text.  And in the second
 question the student can use multiple text lines to show their work in great detail.  This ability to "show your work" was
