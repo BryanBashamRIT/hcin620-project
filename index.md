@@ -44,7 +44,10 @@ The team created a set of lo-fidelity prototypes for three general student use c
 
 ## M5: Hi-fi Prototype
 
-_TBD_
+The team created a set of high-fidelity prototypes for three general student use cases
+uing Figma.
+
+[See here for details.](./hi-fi-prototype.md)
 
 ## Peer Evaluation
 
