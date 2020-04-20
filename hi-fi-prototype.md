@@ -3,7 +3,8 @@
 This page provides a describption of hi-fidelity prototype for the College Algebra Tutorial App (CATA) project.
 These are organized by three general use cases.
 
-See the video here: [Video Demonstration of CATA](https://drive.google.com/a/g.rit.edu/file/d/1FRUUtqb_wY7iGtLzqbqb51zBZ3Hsf0z4/view?usp=sharing)
+* See the video here: [Video Demonstration of CATA](https://drive.google.com/a/g.rit.edu/file/d/1FRUUtqb_wY7iGtLzqbqb51zBZ3Hsf0z4/view?usp=sharing)
+* Navigate to the Figma project here: [Figma iFrame](./cata_prototype/index.html)
 
 ## Video Script Introduction
 
