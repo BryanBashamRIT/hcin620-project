@@ -3,12 +3,7 @@
 This page provides a describption of hi-fidelity prototype for the College Algebra Tutorial App (CATA) project.
 These are organized by three general use cases.
 
-## Notes About Our Process
-
-The team spent a few days analyzing both the Affinity diagram and our Project scope proposal to determine
-the set of web site pages required to satisfy all of the requirements from these two sources.  We then created
-a web site map (see next section) that captures these decisions.  Due to time constraints we decided to focus on
-the student experience and tabled all of the instructor pages.
+See the video here: [Video Demonstration of CATA](https://drive.google.com/a/g.rit.edu/file/d/1FRUUtqb_wY7iGtLzqbqb51zBZ3Hsf0z4/view?usp=sharing)
 
 ## Video Script Introduction
 
