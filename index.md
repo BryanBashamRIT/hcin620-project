@@ -49,6 +49,8 @@ uing Figma.
 
 [See here for details.](./hi-fi-prototype.md)
 
-## Peer Evaluation
+## Usability Testing
 
-_TBD_
+The team performed usabilty testing for the College Algebra Tutorial App (CATA) project.
+
+[See here for details.](./usability-testing.md)
